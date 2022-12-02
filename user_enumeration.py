@@ -2,7 +2,7 @@ import dns.resolver
 import requests
 import time
 import random
-# 1
+# 123
 class GetMxRecord():
     """
     Class for getting mx record for company domain
