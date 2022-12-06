@@ -7,7 +7,7 @@ PART 1
 3. Git clone repository to your PC
 4. Create new branch 'dev-feat-1'
 5. Install dns.resolver library
-6. Complete the code based on the instructions in file email_verification_module.py, lines 67-89
+6. Complete the code based on the instructions in file email_verification_module.py, lines 67-89. If you prefer to use Celery, feel free to use it.
 7. Commit and pull request changes to the 'prod' branch
 
 PART 2
